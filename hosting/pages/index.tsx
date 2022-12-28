@@ -12,6 +12,9 @@ export default function IndexPage() {
 				<h1>
 					Hello World.
 				</h1>
+				<h2>
+					dfkuro gives you a salute.
+				</h2>
 				<Link href="/about">About</Link>
 			</div>
 		</div>
